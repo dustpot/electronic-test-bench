@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GPIO_Hat_v6")(type "KiCad")(uri "$(KIPRJMOD)/ECSE2920_CheckpointB_HAT.pretty")(options "")(descr ""))
+)

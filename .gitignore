@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# KiCad
+*-backups/
+fp-info-cache
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*.lck
+_autosave-*
+~*.lck
+
+# Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+
+# Secrets
+secrets.h
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/

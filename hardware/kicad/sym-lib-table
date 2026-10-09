@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GPIO_Hat_v6.sch-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/GPIO_Hat_v6.sch-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "dual_digipot")(type "KiCad")(uri "C:/Users/allan/OneDrive/Documents/KiCad/ECSE2920_PHP_StartFiles/ECSE2920_PHP_Import_GPIO_Hat_v6/libs_downloads/ul_MCP4231-103E-P/KiCADv6/2026-02-02_02-59-29.kicad_sym")(options "")(descr ""))
+  (lib (name "quad_comparator")(type "KiCad")(uri "C:/Users/allan/OneDrive/Documents/KiCad/ECSE2920_PHP_StartFiles/ECSE2920_PHP_Import_GPIO_Hat_v6/libs_downloads/LM339N/KiCADv6/2026-02-14_07-07-06.kicad_sym")(options "")(descr ""))
+  (lib (name "TL084")(type "KiCad")(uri "C:/Users/allan/OneDrive/Documents/KiCad/ECSE2920_PHP_StartFiles/ECSE2920_PHP_Import_GPIO_Hat_v6/libs_downloads/TL084CN/KiCADv6/2026-02-27_21-46-45.kicad_sym")(options "")(descr ""))
+)
